@@ -22,4 +22,4 @@
 
 # MORE MACHINES ON MYPCLIST 
 
-* <a href="mypclist.net/u/wpmaster">LINK</a>
+* <a href="http://www.mypclist.net/u/wpmaster">LINK</a>
